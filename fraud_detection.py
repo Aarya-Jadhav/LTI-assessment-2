@@ -16,9 +16,9 @@ from sklearn.metrics import (
 
 import matplotlib.pyplot as plt
 
-# ------------------------------------------
+
 # 1. SYNTHETIC DATA GENERATION
-# ------------------------------------------
+
 
 np.random.seed(42)
 
