@@ -14,11 +14,12 @@ An end-to-end fraud detection system built using synthetically generated transac
 ## Tech Stack
 Python, pandas, numpy, scikit-learn, matplotlib
 
+## Output
+<img width="1193" height="710" alt="Image" src="https://github.com/user-attachments/assets/4298cda2-1e6a-4edc-b698-4d45c24cbc3e" />
+<img width="1301" height="705" alt="Image" src="https://github.com/user-attachments/assets/352aadd7-1262-459b-8b87-b412907c1c2b" />
+
 ## How to Run
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
 python fraud_detection.py
 
-## Output
-<img width="1193" height="710" alt="Image" src="https://github.com/user-attachments/assets/4298cda2-1e6a-4edc-b698-4d45c24cbc3e" />
-<img width="1301" height="705" alt="Image" src="https://github.com/user-attachments/assets/352aadd7-1262-459b-8b87-b412907c1c2b" />
